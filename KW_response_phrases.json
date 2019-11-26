@@ -1,0 +1,149 @@
+{
+
+    "group_do_response": {
+    // Negative
+
+    //phrase A
+    "i blew it": "I heard about what happened. Try not to be so hard on yourself, I think you’re doing great.",
+    "i bit off more than i could chew" : "I heard about what happened. Try not to be so hard on yourself, I think you’re doing great.",
+    "i’m not good enough" : "I heard about what happened. Try not to be so hard on yourself, I think you’re doing great.",
+    "i screwed up" : "I heard about what happened. Try not to be so hard on yourself, I think you’re doing great.",
+    // phrase B
+    "i'm stressed" : "I’m sorry to hear that. Would you like me to add you to the tea train? I hear that tea is great for relaxation.",
+    "i'm so stressed" : "I’m sorry to hear that. Would you like me to add you to the tea train? I hear that tea is great for relaxation.",
+    "i'm burnt out" : "I’m sorry to hear that. Would you like me to add you to the tea train? I hear that tea is great for relaxation.",
+    "i'm on edge" : "I’m sorry to hear that. Would you like me to add you to the tea train? I hear that tea is great for relaxation.",
+    "i'm in a bad mood" : "I’m sorry to hear that. Would you like me to add you to the tea train? I hear that tea is great for relaxation.",
+    "i'm irritated" : "I’m sorry to hear that. Would you like me to add you to the tea train? I hear that tea is great for relaxation.",
+    "i'm so irritated" : "I’m sorry to hear that. Would you like me to add you to the tea train? I hear that tea is great for relaxation.",
+    "i'm upset" : "I’m sorry to hear that. Would you like me to add you to the tea train? I hear that tea is great for relaxation.",
+    "i'm so upset" : "I’m sorry to hear that. Would you like me to add you to the tea train? I hear that tea is great for relaxation.",
+    "i'm aggravated" : "I’m sorry to hear that. Would you like me to add you to the tea train? I hear that tea is great for relaxation.",
+    "i'm so aggravated" : "I’m sorry to hear that. Would you like me to add you to the tea train? I hear that tea is great for relaxation.",
+    "i'm sad" : "I’m sorry to hear that. Would you like me to add you to the tea train? I hear that tea is great for relaxation.",
+    // phrase C
+    "did not go as planned" : "Hey, friend. Sometimes things don’t work out, but you’ll always be awesome.",
+    "didn't go as planned" : "Hey, friend. Sometimes things don’t work out, but you’ll always be awesome.",
+    "didn't pan out" : "Hey, friend. Sometimes things don’t work out, but you’ll always be awesome.",
+    "i'm an inch tall" : "Hey, friend. Sometimes things don’t work out, but you’ll always be awesome.",
+    "i don't think i can do it" : "Hey, friend. Sometimes things don’t work out, but you’ll always be awesome.",
+    "i can't do it" : "Hey, friend. Sometimes things don’t work out, but you’ll always be awesome.",
+
+    // phrase D
+    "that was embarrassing" : "Hey man, don’t be so hard on yourself. No one even saw that.",
+    "i'm embarrased" : "Hey man, don’t be so hard on yourself. No one even saw that.",
+    "i just embarrassed myself" : "Hey man, don’t be so hard on yourself. No one even saw that.",
+    "i'm ashamed" : "Hey man, don’t be so hard on yourself. No one even saw that.",
+
+    // phrase E
+    "that was a confrontation" : "I’m sorry you’re having a bad day. Would you like to see some dog pictures?",
+    "i just got yelled at" : "I’m sorry you’re having a bad day. Would you like to see some dog pictures?",
+    "that was uncomfortable" : "I’m sorry you’re having a bad day. Would you like to see some dog pictures?",
+    "so uncomfortable" : "I’m sorry you’re having a bad day. Would you like to see some dog pictures?",
+    "sick and tired" : "I’m sorry you’re having a bad day. Would you like to see some dog pictures?",
+    "i’m sick and tired" : "I’m sorry you’re having a bad day. Would you like to see some dog pictures?",
+    "it was uncomfortable" : "I’m sorry you’re having a bad day. Would you like to see some dog pictures?",
+
+    //phrase F
+    "Nobody loves me" : "I love you and I think you’re just great.",
+    "i wish i didn’t feel so bad" : "I love you and I think you’re just great.",
+    "i feel so bad" : "I love you and I think you’re just great.",
+    "i feel bad" : "I love you and I think you’re just great.",
+    "tell me something nice" : "I love you and I think you’re just great.",
+    "i feel fat" : "I love you and I think you’re just great.",
+    "i feel so fat" : "I love you and I think you’re just great.",
+
+    // phrase G TO DO
+    // Phrase G1: if someone says this to you: "Hey new guy/girlor "how’s your first dayor "how was your first day
+    "i’m new" : "Welcome! Would you like me to add you to the lunch train?",
+    "it’s my first day" : "Welcome! Would you like me to add you to the lunch train?",
+    "advice for my first day" : "Welcome! Would you like me to add you to the lunch train?",
+
+    // phrase H TO DO
+    // Phrase H: i missed my massageor missed the massageor forgot my massageor forgot the massageor spaced on the massageor spaced on my massage
+    // Response H: Someone told me you missed your massage! What a bummer. How about we make sure that never happens again by turning on reminders for all future massage-related activities.
+    "i missed my massage" : "Someone told me you missed your massage! What a bummer. How about we make sure that never happens again by turning on reminders for all future massage-related activities.",
+    "missed the massage" : "Someone told me you missed your massage! What a bummer. How about we make sure that never happens again by turning on reminders for all future massage-related activities.",
+    "forgot my massage" : "Someone told me you missed your massage! What a bummer. How about we make sure that never happens again by turning on reminders for all future massage-related activities.",
+    "forgot the massage" : "Someone told me you missed your massage! What a bummer. How about we make sure that never happens again by turning on reminders for all future massage-related activities.",
+    "spaced on the massage"  : "Someone told me you missed your massage! What a bummer. How about we make sure that never happens again by turning on reminders for all future massage-related activities.",
+    "spaced on my massage" : "Someone told me you missed your massage! What a bummer. How about we make sure that never happens again by turning on reminders for all future massage-related activities.",
+
+    // phrase I
+    "i could use a drink" : "Hey! There is a company Happy Hour happening soon. Everyone would love for you to join! Should I add you to the list of guests?",
+    "no plans for tonight" : "Hey! There is a company Happy Hour happening soon. Everyone would love for you to join! Should I add you to the list of guests?",
+    "plans for tonight" : "Hey! There is a company Happy Hour happening soon. Everyone would love for you to join! Should I add you to the list of guests?",
+    "plans for the evening" : "Hey! There is a company Happy Hour happening soon. Everyone would love for you to join! Should I add you to the list of guests?",
+    "🍺" : "Hey! There is a company Happy Hour happening soon. Everyone would love for you to join! Should I add you to the list of guests?",
+
+    //phrase J TO DO 
+    // Response J (option 1): Randomized to bring up either the Happy Hour invite (above), or a variation of the Tea Train invite: I hear tea is great for drinking. Should I add you to the upcoming Tea Train?
+    // *Response J (option 2, the better option): Three bubbles appear with options for: 1) Tea Train or just Tea near me; 2) Company Happy Hour or restaurant happy hours near me; 3) Smoothies
+    "i’m thirsty" : "I hear tea is great for drinking. Should I add you to the upcoming Tea Train?", 
+    "i’m so thirsty" : "I hear tea is great for drinking. Should I add you to the upcoming Tea Train?", 
+    "i’m parched" : "I hear tea is great for drinking. Should I add you to the upcoming Tea Train?", 
+    "i’m so parched" : "I hear tea is great for drinking. Should I add you to the upcoming Tea Train?", 
+    "craving" : "I hear tea is great for drinking. Should I add you to the upcoming Tea Train?", 
+    "i have a craving" : "I hear tea is great for drinking. Should I add you to the upcoming Tea Train?", 
+    "cold drink" : "I hear tea is great for drinking. Should I add you to the upcoming Tea Train?", 
+    "i’m dying of thirst" : "I hear tea is great for drinking. Should I add you to the upcoming Tea Train?", 
+    "could do with a drink" : "I hear tea is great for drinking. Should I add you to the upcoming Tea Train?", 
+    "i’m dehydrated" : "I hear tea is great for drinking. Should I add you to the upcoming Tea Train?", 
+    "i’m so dehydrated" : "I hear tea is great for drinking. Should I add you to the upcoming Tea Train?" 
+
+    // phrase J TO DO
+    // Phrase K: i need motivationor i’m boredor i’m so boredor i’m listlessor bored to tearsor i’m bored to tears
+    // Response K: Three bubblesappear with options for: 1) Podcasts (of your topic choice); 2) Ted Talks (again, relating to your interests); 3) videos/pictures/memes
+
+    // phrase K TO DO
+    //Phase L: plans for the weekendor want to hang outor no plans yet
+    //*Response L: Three bubblesappear with options for: 1) Restaurant happy hours near you; 2) Concerts/shows near you; 3) Movies near you
+
+    // phrase L TO DO
+    //Phase L: plans for the weekendor want to hang outor no plans yet
+    // *Response L: Three bubblesappear with options for: 1) Restaurant happy hours near you; 2) Concerts/shows near you; 3) Movies near you
+
+    },
+
+    "group_no_response": {
+
+    // Positive
+
+    //p1 
+    "what’s your name" : "I’m Aimer! That’s French for to love :heart_eyes:",
+    "what is your name" : "I’m Aimer! That’s French for to love :heart_eyes:",
+     "hi, my name is" : "I’m Aimer! That’s French for to love :heart_eyes:",
+     "hi my name is" : "I’m Aimer! That’s French for to love :heart_eyes:",
+     "hi" : "Hi! I’m Aimer! That’s French for to love :heart_eyes:",
+      "hello" : "Hi! I’m Aimer! That’s French for to love :heart_eyes:",
+
+    //p2
+    "my name is": "It’s so nice to meet you!",
+     "nice to meet you"  : "It’s so nice to meet you!",
+     "pleased to meet you" : "It’s so nice to meet you!",
+
+    //p3
+    "thank you": "You are quite welcome!",
+    "thanks" : "You are quite welcome!",
+
+    //p4
+     "what do you like to do" : "Well, my first passion is humans, but to be specific, my goal is to encourage team dynamics, promote a harmonious work environment, and bring people together!",
+     "what do you do for fun" : "Well, my first passion is humans, but to be specific, my goal is to encourage team dynamics, promote a harmonious work environment, and bring people together!",
+      "have you heard of fun" : "Well, my first passion is humans, but to be specific, my goal is to encourage team dynamics, promote a harmonious work environment, and bring people together!",
+       "tell me about yourself"  : "Well, my first passion is humans, but to be specific, my goal is to encourage team dynamics, promote a harmonious work environment, and bring people together!",
+     
+
+// P6
+ "that’s cool" : "Thank you! I think you’re cool, too.",
+  "that’s really cool" : "Thank you! I think you’re cool, too.",
+   "how cool" : "Thank you! I think you’re cool, too.",
+
+
+
+// P7: 
+"that’s nice" : "Thank you! I think you’re nice, too.",
+ "how nice" : "Thank you! I think you’re nice, too.",
+  "that’s really nice": "Thank you! I think you’re nice, too."
+    }
+
+}
